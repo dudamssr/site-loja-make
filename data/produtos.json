@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "nome": "Paleta diversas Christian Dior",
+        "descrição": "Paleta com blush e contorno",
+        "preco": 300,
+        "quantidade":10,
+        "img": "https://i.pinimg.com/1200x/17/9b/7e/179b7e9871abfc98162770cf24d14ee2.jpg"
+    },
+
+    {
+        "id": 2,
+        "nome": "Blush stick Boca Rosa",
+        "descrição": "Blush em stick",
+        "preco": 70,
+        "quantidade":15,
+        "img": "https://i.pinimg.com/736x/0f/18/89/0f188923c45a0cc36c8f2a8b19778e27.jpg"
+    },
+
+    {
+        "id": 3,
+        "nome": "Facemask Starface",
+        "descrição": "Adesivos para espinha",
+        "preco": 100,
+        "quantidade":10,
+        "img": "https://i.pinimg.com/736x/a7/0c/0a/a70c0a5feeb3a12756181bd5f781af0b.jpg"
+    },
+
+    {
+        "id": 4,
+        "nome": "Paleta de sombra Kylie Cosmetics",
+        "descrição": "Paleta de sombra, tons escuros ",
+        "preco": 450,
+        "quantidade":20,
+        "img": "https://i.pinimg.com/1200x/b9/d6/70/b9d670f3c9809a8cf4427bb063a76311.jpg"
+    },
+
+    {
+        "id": 5,
+        "nome": "Mascara de cilios Kylie Cosmetics",
+        "descrição": "Paleta com blush e contorno",
+        "preco": 300,
+        "quantidade":10,
+        "img": "https://i.pinimg.com/1200x/6e/4b/00/6e4b00a4ec06a76b590dd4cc95c0540f.jpg"
+    },
+
+    {
+        "id": 6,
+        "nome": "Corretivo Mari Maria",
+        "descrição": "Corretivo em 20 tons diferentes",
+        "preco": 80,
+        "quantidade":25,
+        "img": "https://i.pinimg.com/1200x/c4/a6/84/c4a684c58cf95f037d7a9b33f1230708.jpg"
+    },
+
+    {
+        "id": 7,
+        "nome": "Gloss FR",
+        "descrição": "Gloss em 3 cores diferentes",
+        "preco": 70,
+        "quantidade": 30,
+        "img": ""
+    },
+
+    {
+        "id": 8,
+        "nome": "Iluminador Rare Beauty",
+        "descrição": "Iluminador em 3 tons",
+        "preco": 190,
+        "quantidade":5,
+        "img": ""
+    },
+
+    {
+        "id": 9,
+        "nome": "Batom Mac",
+        "descrição": "Batom vermelho Mac",
+        "preco": 350,
+        "quantidade":40,
+        "img": ""
+    },
+
+    {
+        "id": 10,
+        "nome": "Hidratante facial Christian Dior",
+        "descrição": "Hidratante facial leitoso",
+        "preco": 450,
+        "quantidade":10,
+        "img": ""
+    }
+
+]
