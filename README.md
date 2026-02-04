@@ -1,15 +1,25 @@
-#Loja de make Swan 
-Exemplo de consumo de dados via **Mockup**.
+#Loja de Make Swan
 
-##Tecnologias
+##Tecnologias utilizadas
+
+-HTML
+
+-CSS
+
 -JavaScript
--Css
--VsCode
-- JSON
-- HTML
-- LiveServer
 
-  ##Passos para testar
-  1. Clone este repositório.
-  2. Abra com VsCode e execute o index.html com o LiveServer
-  
+-JSON
+
+-VS Code
+
+-Live Server
+
+##Passos para testar localmente
+
+1.Clone este repositório.
+
+2.Abra a pasta do projeto no VS Code.
+
+3.Clique com o botão direito no arquivo index.html.
+
+4.Selecione "Open with Live Server".
