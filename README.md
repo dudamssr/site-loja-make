@@ -1,4 +1,4 @@
-#Loja de Make Swan
+#Loja de Make Sterne
 
 ##Tecnologias utilizadas
 
